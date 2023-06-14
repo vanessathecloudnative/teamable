@@ -1,7 +1,6 @@
 # teamable
 This is a demo project to learn
 
-adding new information here...
 
 ## To run the tests execute
 
