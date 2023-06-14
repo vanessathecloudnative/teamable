@@ -9,3 +9,5 @@ This is a demo project to learn
 ### To package the application, execute 
 
     npm pack
+
+Application runes on port 3000
