@@ -1,0 +1,23 @@
+{
+  "name": "Teamable",
+  "version": "1.0.0",
+  "dependencies": {
+    "vue": "3.3.4",
+    "core-js": "3.30.2",
+    "express":"4.18.2",
+    "mongodb": "5.6.0"
+  },
+    "devDependencies": {
+      "jest": "29.5.0",
+      "supertest": "6.3.3",
+      "@vue/compiler-sfc": "3.3.4",
+      "@vue/cli-service": "5.0.8"
+
+    },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "start": "node server.js",
+    "test": "jest"
+  }
+}
